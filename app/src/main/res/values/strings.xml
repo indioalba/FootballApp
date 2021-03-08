@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PlayerFinder</string>
+    <string name="api_key">d0fd3387c14fbdd9cb0641515b902cd7</string>
+
+    <string name="player_title">Players</string>
+    <string name="team_title">Teams</string>
+
+    <string name="load_more_players">Load more players</string>
+    <string name="load_more_teams">Load more Teams</string>
+</resources>
